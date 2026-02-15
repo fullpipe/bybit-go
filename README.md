@@ -70,7 +70,7 @@ func main() {
 
 ## TODO
 
-- [ ] websocket client
+- websocket client
 - parse types with `... (ms)` in comments as int64, even its is string originaly
 - not all enums detected, like `AssetSettlementRecordListItem.Symbol`
 - remove `github.com/google/go-querystring/query` dep?
