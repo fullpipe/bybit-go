@@ -1,4 +1,4 @@
-module github.com/fullpipe/bybit
+module github.com/fullpipe/bybit-go
 
 go 1.25.5
 
