@@ -1,5 +1,9 @@
 # bybit-api-go
 
+[![test](https://github.com/fullpipe/bybit-go/actions/workflows/test.yml/badge.svg)](https://github.com/fullpipe/bybit-go/actions/workflows/test.yml)
+[![lint](https://github.com/fullpipe/bybit-go/actions/workflows/lint.yml/badge.svg)](https://github.com/fullpipe/bybit-go/actions/workflows/lint.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/fullpipe/bybit-go.svg)](https://pkg.go.dev/github.com/fullpipe/bybit-go)
+
 Go client for the Bybit REST APIs. Typed as strongly as possible.
 
 Domains:

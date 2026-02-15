@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	userAgentName    = "bybit-api-go"
+	userAgentName    = "bybit-go"
 	userAgentVersion = "0.0.1"
 
 	recvWindow = "5000"

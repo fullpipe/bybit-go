@@ -121,7 +121,7 @@ func (c *bybitClient) do(ctx context.Context, req *http.Request) (data []byte, e
 	if err != nil {
 		return nil, err
 	}
-	defer resp.Body.Close()
+	defer resp.Body.Close() //nolint:errcheck
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
