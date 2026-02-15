@@ -1,4 +1,4 @@
-# bybit-api-go
+# bybit-go
 
 [![test](https://github.com/fullpipe/bybit-go/actions/workflows/test.yml/badge.svg)](https://github.com/fullpipe/bybit-go/actions/workflows/test.yml)
 [![lint](https://github.com/fullpipe/bybit-go/actions/workflows/lint.yml/badge.svg)](https://github.com/fullpipe/bybit-go/actions/workflows/lint.yml)
